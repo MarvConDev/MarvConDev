@@ -13,11 +13,10 @@ I am currently learning to code.<br><br>There are exactly 10 types of people in 
 ---
 [![](https://visitcount.itsvg.in/api?id=MarvConDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/marvcon) 
-
-  
+ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://raw.githubusercontent.com/MarvConDev/MarvConDev/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarvConDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -25,10 +24,8 @@ I am currently learning to code.<br><br>There are exactly 10 types of people in 
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/MarvConDev/MarvConDev/output/snake.svg" alt="Snake animation" />
-
-###
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/marvcon) 
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/MarvConDev/count.svg?"  />
