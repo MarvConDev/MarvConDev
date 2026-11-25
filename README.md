@@ -25,8 +25,4 @@ I am currently learning to code.<br><br>There are exactly 10 types of people in 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/marvcon) 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MarvConDev/count.svg?"  />
-</div>
-
 ###
